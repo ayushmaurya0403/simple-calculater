@@ -1,0 +1,15 @@
+table{
+    /* border: solid black 2px; */
+    color: rgb(8, 8, 145);
+}
+.container{
+     
+      justify-content: center;
+      display: flex;     
+    
+}
+div h1{
+justify-content: center;
+display: flex;
+font-family: 'Courier New', Courier, monospace;
+}
