@@ -5,7 +5,8 @@ table{
 .container{
      
       justify-content: center;
-      display: flex;     
+      display: flex;  
+      border: solid black 2px;   
     
 }
 div h1{
